@@ -1,7 +1,7 @@
 [project]
 name = "mcp-server-alphavantage"
 version = "0.1.0"
-description = "Add your description here"
+description = "An MCP Server for Alpha Vantage"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
