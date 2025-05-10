@@ -3,7 +3,7 @@
 An MCP Server for Alpha Vantage
 
 
-## Setup
+# Setup
 
 1. Clone this repository:
    ```bash
@@ -23,6 +23,8 @@ An MCP Server for Alpha Vantage
     ```
 
 # Usage
+
+`uv run mcp install server.py`
 
 Edit the Claude for Desktop config file
 
