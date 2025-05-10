@@ -24,9 +24,11 @@ An MCP Server for Alpha Vantage
 
 # Usage
 
+Run
+
 `uv run mcp install server.py`
 
-Edit the Claude for Desktop config file
+Then check the Claude for Desktop config file
 
 ```json
 {
