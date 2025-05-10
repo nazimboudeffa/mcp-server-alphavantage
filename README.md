@@ -37,7 +37,7 @@ Edit the Claude for Desktop config file
         "mcp[cli]",
         "mcp",
         "run",
-        "C:\\Users\\YOUR_USERNAME\\Documents\\GitHub\\mcp-server-thesportsdb\\server.py"
+        "C:\\Users\\YOUR_USERNAME\\Documents\\GitHub\\mcp-server-alphavantage\\server.py"
       ]
     }
   }
