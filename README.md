@@ -27,11 +27,12 @@ An MCP Server for Alpha Vantage
     API_KEY=demo
     ```
 
+4. Install the server
+    ```bash
+    uv run mcp install server.py
+    ```
+
 # Usage
-
-Run
-
-`uv run mcp install server.py`
 
 Then check the Claude for Desktop config file
 
