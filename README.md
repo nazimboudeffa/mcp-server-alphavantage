@@ -29,12 +29,12 @@ An MCP Server for Alpha Vantage
 
 4. Install the server
     ```bash
-    uv run mcp install server.py
+    mcp install server.py
     ```
 
 # Usage
 
-Then check the Claude for Desktop config file
+Check the Claude for Desktop config file
 
 ```json
 {
