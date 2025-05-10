@@ -8,7 +8,7 @@ An MCP Server for Alpha Vantage
 1. Clone this repository:
    ```bash
    git clone https://github.com/nazimboudeffa/mcp-server-alphavantage.git
-   cd yahoo-finance-mcp
+   cd mcp-server-alphavantage
    ```
 
 2. Install dependencies
